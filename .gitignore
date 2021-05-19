@@ -1,0 +1,9 @@
+*.pyc
+.idea/*
+venv/*
+.env
+.venv/*
+
+collector/*
+
+
