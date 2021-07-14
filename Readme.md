@@ -30,4 +30,3 @@ model
 </u>
 <br/>
 Email: aks97cs@gmail.com <br>
-Whats app: +91 8077427591
